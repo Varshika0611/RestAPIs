@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "varshika",
+      "branch": "CSE"
+    },
+    {
+      "id": "4",
+      "name": "Kaarthi",
+      "Branch": "ECE"
+    },
+    {
+      "id": "5",
+      "name": "Mahitha",
+      "Branch": "IT"
+    }
+    
+   
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
